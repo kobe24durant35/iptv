@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
-#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/TVBS_news.png" group-title="台湾",TVBS新闻 
 http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 http://2023.stream-link.org/playlist/tvbs_news

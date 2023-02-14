@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="TVBS新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="台湾",TVBS新闻 
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/TVBS_news.png" group-title="台湾",TVBS新闻 
 http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2  
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225643/index.m3u8
+http://2023.stream-link.org/playlist/tvbs_news
+#EXTINF:-1 tvg-id="2" tvg-name="中天新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/ztxw.png" group-title="台湾",中天新闻  
+http://pull-l3-cny.douyincdn.com/third/stream-7898d38d54c60879ba96a1fa42edbd53.m3u8
+http://2023.stream-link.org/playlist/cti_news
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3  
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4  

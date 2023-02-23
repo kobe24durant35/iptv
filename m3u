@@ -1,5 +1,32 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="TVBS新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/TVBS_news.png" group-title="台湾NEW",TVBS新闻 
+https://epg.pw/stream/865a50788a8095246b4e62760966ab5cb0dd0c69a0cb9fba1384db307c0f82d4.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="中天新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/ztxw.png" group-title="台湾NEW",中天新闻
+https://epg.pw/stream/44506340cc5ae8daf1f469970c1df8865aa04db829d4959ad7daafe4508de9ee.ctv
+#EXTINF:-1 tvg-id="3" tvg-name="中视新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/zsxw.png" group-title="台湾NEW",中视新闻  
+https://epg.pw/stream/11c7b8076f221c324274822e081c892580d273fcc0458876998e31539d8356c2.ctv
+#EXTINF:-1 tvg-id="4" tvg-name="民视新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/msxw.png" group-title="台湾NEW",民视新闻  
+https://epg.pw/stream/41efbd8f1f222549801bfa384e8df0f8a1899fb59685d624afee6a4e1bea95f7.ctv
+#EXTINF:-1 tvg-id="5" tvg-name="华视新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/hsxw.png" group-title="台湾NEW",华视新闻  
+https://epg.pw/stream/f9e431741cb4630d697392f3b649276f9d9cf157a07980bbc202abca3029a6ad.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="台视新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/tsxw.png" group-title="台湾NEW",台视新闻  
+https://epg.pw/stream/6f775293448a5cae009dbf7b9427f493a28c84a90208161667b7acd70a3d557b.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="寰宇新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/hyxw.png" group-title="台湾NEW",寰宇新闻  
+https://epg.pw/stream/11881d9320da78073058a40de5944a6aa10b80272837543c43037754bd7926ca.ctv
+#EXTINF:-1 tvg-id="8" tvg-name="三立live" tvg-logo="http://n.ysyz.top:99/buyaolian/slxw.png" group-title="台湾NEW",三立live  
+https://epg.pw/stream/90629c51d440efe573ab65c6cd93fba1d0a930764290d8ba643437f07999d30e.ctv
+#EXTINF:-1 tvg-id="9" tvg-name="三立财经" tvg-logo="http://n.ysyz.top:99/buyaolian/slxw.png" group-title="台湾NEW",三立财经
+https://epg.pw/stream/136233c1a3e1db02a9ae650601a11fb284c49e1c5a350dbb9173f837152d5320.ctv
+#EXTINF:-1 tvg-id="10" tvg-name="东森新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/dsxw.png" group-title="台湾NEW",东森新闻  
+https://epg.pw/stream/ef7ca9a27de6dea075f4ed4b38386502ac3e795a4faaa5d870dca9e41bc60940.ctv
+#EXTINF:-1 tvg-id="11" tvg-name="镜新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/mnews.png" group-title="台湾NEW",镜新闻
+http://frankfwang.synology.me:9000/live.m3u8?c=3
+
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/TVBS_news.png" group-title="台湾",TVBS新闻 
 http://frankfwang.synology.me:9000/live.m3u8?c=1
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/TVBS_news.png" group-title="台湾",TVBS新闻

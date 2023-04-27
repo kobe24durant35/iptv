@@ -193,7 +193,6 @@ EXTINF:-1 tvg-name="NBATV" group-title="体育",NBATV4k25z
 https://epg.pw/stream/49ca3ac90ee634ef54f9423c829b28a3ba98b8c4f4226948fda40a16642da6a5.ctv
 EXTINF:-1 tvg-name="NBATV" group-title="体育",NBATV1080p60z
 http://143.244.60.97/NBATV/index.m3u8
-
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+

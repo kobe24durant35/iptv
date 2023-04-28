@@ -1,31 +1,30 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 
-
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://n.ysyz.top:99/buyaolian/TVBS_news.png" group-title="台湾",TVBS
+https://epg.pw/stream/8a8c88e4e0c290b3b677b1ebb2ec299930078f07105076272b6b2b720cd0ec44.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/TVBS_news.png" group-title="台湾",TVBS新闻 
-http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+https://epg.pw/stream/91effcd56e0102c7b365340bbc20b40fdac5bf20348d890e377a0a677ea4bd64.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/ztxw.png" group-title="台湾",中天新闻
-https://tvos.ml/youtube/channel/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%20Live.m3u8
+https://epg.pw/stream/1d975f7a89a01ded8aa47cb0b56f8be7999ad8ee43fe744a1b77689d0836d6a3.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/zsxw.png" group-title="台湾",中视新闻  
-https://tvos.ml/youtube/channel/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
+https://epg.pw/stream/c6223b0655e65b028184b216a9e8b433a36147959605a52c5eec9a997306114d.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/msxw.png" group-title="台湾",民视新闻
-https://tvos.ml/youtube/channel/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/hsxw.png" group-title="台湾",华视新闻  
-https://epg.pw/stream/e0dc7af24e6f8fcebf233d4a09505125ef4c8faade13f7ad354be5d8b5ea1db5.m3u8
+https://epg.pw/stream/54ca3ba308de513cb001f3ab05772e7f6cd2469c8c2c3597be81645f65b02bb6.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/tsxw.png" group-title="台湾",台视新闻  
-https://tvos.ml/youtube/channel/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E.m3u8
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/hyxw.png" group-title="台湾",寰宇新闻  
-https://tvos.ml/youtube/channel/%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E.m3u8
+https://epg.pw/stream/98e48c5938ee0a2241d29f1bbd28d3d2951b49e1da7a8e53a9b0b5d019bace70.m3u8
+#EXTINF:-1 tvg-name="华视新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/hsxw.png" group-title="台湾",华视新闻  
+https://epg.pw/stream/ec74f963a1dcebd7ef7e925d574eafa9e50da2674471cd7f30670f11d1c7a42b.m3u8
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/dsxw.png" group-title="台湾",东森新闻 
+https://epg.pw/stream/7872a236f1393aa913844a130912aa8891f4bbf96841157ed4605778bc0bc62f.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/slxw.png" group-title="台湾",三立新闻
-http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
-#EXTINF:-1 tvg-name="三立live" tvg-logo="http://n.ysyz.top:99/buyaolian/slxw.png" group-title="台湾",三立live  
-http://2023.stream-link.org/live/1803236734
-#EXTINF:-1 tvg-name="三立财经" tvg-logo="http://n.ysyz.top:99/buyaolian/slxw.png" group-title="台湾",三立财经
-http://2023.stream-link.org/live/1998094138
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/dsxw.png" group-title="台湾",东森新闻  
-https://pull-l3-cny.douyincdn.com/live/stream-1121752023042001198.m3u8
+https://epg.pw/stream/b9417fe624b393f25184fb639d7b22a62fc18a618b2472573956390b5ade0309.ctv
+#EXTINF:-1 tvg-name="三立live" tvg-logo="http://n.ysyz.top:99/buyaolian/slxw.png" group-title="台湾",三立inews 
+https://epg.pw/stream/7a41435811fb31d1539dfabe2c714e31882f90e4faadc92f99efc972912f4d01.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/hyxw.png" group-title="台湾",寰宇新闻  
+https://epg.pw/stream/17a80e81db9dc857f6eea9b6d4aac577de1aab1ccdaa5c218ccc3ca160b12420.m3u8
 #EXTINF:-1 tvg-name="镜新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/mnews.png" group-title="台湾",镜新闻
-https://tvos.ml/youtube/channel/%E9%8F%A1%E6%96%B0%E8%81%9E.m3u8
+https://epg.pw/stream/db719e07a397da45310988c898768212bdafefc54efa7b8a3b749f60e0678d51.m3u8
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="http://n.ysyz.top:99/buyaolian/ztxw.png" group-title="台湾",中天综合
 http://23.237.10.66:16372
 #EXTINF:-1 tvg-name="TNT" group-title="台湾",NBC NEWS
@@ -42,7 +41,8 @@ https://epg.pw/stream/e47ccd27217542287f9827a03805425a4ec8feb7e4b277a7cc6e1336ab
 
 
 
-
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13  
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1  
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2  

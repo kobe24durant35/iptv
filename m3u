@@ -154,6 +154,8 @@ http://45.90.105.74:25461/bbv1/4QKmSRxShA/39730
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/2258
 #EXTINF:-1 tvg-name="NBATV" group-title="体育",NBATV 1080p60fps
 http://143.244.60.97/NBATV/index.m3u8
+#EXTINF:-1 tvg-name="纬来体育" group-title="体育",纬来体育 720p25fps
+rtmp://119.81.124.89:1935/sat/tv721
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8

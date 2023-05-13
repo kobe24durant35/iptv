@@ -162,7 +162,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="体育",新视觉
 https://epg.pw/stream/1ae08c19d25c69ce9f377821db990555e84125d649ae0092c112a7f547d12ff1.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
-https://epg.pw/stream/525681e8ceaed83b3702016a446a1f591bdc7f934e0e8bd76a34d9504456f961.ctv
+https://epg.pw/stream/a0bb578cfddb51064c021d2aa4de2691a0def109b730576de751d1dcf4902bdd.ctv
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育",广东体育
 https://epg.pw/stream/1cb76592557a581644154d8da7c9bb7598ad76d3ed42175ba4b6f077005303ba.m3u8
 #EXTINF:-1 tvg-id="BTV体育" tvg-name="北京体育" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="体育",北京体育

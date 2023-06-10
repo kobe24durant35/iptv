@@ -166,9 +166,9 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/ind
 
 
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育",CCTV-5
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_882248521/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8?icpid=3&RTS=1668594346&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育",CCTV-5+
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="体育",新视觉
 https://cntv.sbs/v605?id=ycxsjH265
@@ -178,8 +178,18 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 http://120.234.220.107:9000/udp/239.20.103:2004
 #EXTINF:-1 tvg-id="BTV体育" tvg-name="北京体育" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="体育",北京体育
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="纬来体育" group-title="体育",纬来体育 720p25fps
+#EXTINF:-1 tvg-name="纬来体育" group-title="体育",纬来体育
 http://awei.beimua.com/iptv.php?id=73
+#EXTINF:-1 tvg-name="纬来体育" group-title="体育",ELEVEN 1
+http://awei.beimua.com/iptv.php?id=76
+#EXTINF:-1 tvg-name="纬来体育" group-title="体育",ELEVEN 2
+http://awei.beimua.com/iptv.php?id=77
+#EXTINF:-1 tvg-name="纬来体育" group-title="体育",爱尔达体育1台
+http://awei.beimua.com/iptv.php?id=81
+#EXTINF:-1 tvg-name="纬来体育" group-title="体育",爱尔达体育2台
+http://awei.beimua.com/iptv.php?id=80
+#EXTINF:-1 tvg-name="纬来体育" group-title="体育",爱尔达体育3台
+http://awei.beimua.com/iptv.php?id=79
 
 #EXTINF:-1 tvg-name="TNT" group-title="体育",TNT 1080p60fps
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/39730

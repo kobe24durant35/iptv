@@ -185,11 +185,11 @@ http://awei.beimua.com/iptv.php?id=76
 #EXTINF:-1 tvg-name="纬来体育" group-title="体育",ELEVEN 2
 http://awei.beimua.com/iptv.php?id=77
 #EXTINF:-1 tvg-name="纬来体育" group-title="体育",爱尔达体育1台
-http://awei.beimua.com/iptv.php?id=81
-#EXTINF:-1 tvg-name="纬来体育" group-title="体育",爱尔达体育2台
 http://awei.beimua.com/iptv.php?id=80
-#EXTINF:-1 tvg-name="纬来体育" group-title="体育",爱尔达体育3台
+#EXTINF:-1 tvg-name="纬来体育" group-title="体育",爱尔达体育2台
 http://awei.beimua.com/iptv.php?id=79
+#EXTINF:-1 tvg-name="纬来体育" group-title="体育",爱尔达体育3台
+http://awei.beimua.com/iptv.php?id=81
 
 #EXTINF:-1 tvg-name="TNT" group-title="体育",TNT 1080p60fps
 http://45.90.105.74:25461/bbv1/4QKmSRxShA/39730

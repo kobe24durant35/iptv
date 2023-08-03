@@ -290,6 +290,8 @@ http://wizarkid.vip:4000/udp/239.77.0.168:5146
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="曼联MUTV" tvg-name="曼联MUTV" group-title="体育",曼联MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-name="晴彩咪咕" group-title="体育",晴彩咪咕
+http://www.youku.cf:4022/udp/239.3.1.125:8001
 #EXTINF:-1 tvg-name="纬来体育" group-title="体育",纬来体育
 http://awei.beimua.com/iptv.php?id=73
 #EXTINF:-1 tvg-name="纬来体育" group-title="体育",ELEVEN 1

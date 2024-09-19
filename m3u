@@ -361,8 +361,10 @@ https://epg.pw/stream/d799c111f24f9e04f28e694a30a4f0aca45c32a6ad104542bf2072bc2a
 https://epg.pw/stream/74903da4fc0946f7feb2f37101575ed728034933bda6811c6702f19b67bd2679.ctv
 #EXTINF:-1 tvg-name="TNT" group-title="体育",DAZN1 1080p50fps
 https://epg.pw/stream/879464de31a3d192bc08d0381c763d5606f23680e94375efbc0dee373de9d246.ctv
-#EXTINF:-1 tvg-name="TNT" group-title="体育",DAZN2 1080p50fps
-https://epg.pw/stream/d52551f7f9310149b2489cce3fef9005738daaedea4740da9acb2f51c059e35e.ctv
+#EXTINF:-1 tvg-name="TNT" group-title="体育"，巴萨
+https://pull9.haipengzuche.com/live/77b5dcf25a803bbb.m3u8?txSecret=575f973bdd985892d1e1b72024333114&txTime=66EC74B3
+#EXTINF:-1 tvg-name="TNT" group-title="体育"，阿森纳
+https://pull9.haipengzuche.com/live/ff8b4ebc948900a8.m3u8?txSecret=8175ecfc4baa42dc48ecff0aa403989e&txTime=66EC74B3
 
 
 
